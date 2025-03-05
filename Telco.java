@@ -36,6 +36,4 @@ public class Telco  implements TelcoSubscription {
     public boolean isUniCallText() {
         return uniCallText;
     }
-    
-
 }
